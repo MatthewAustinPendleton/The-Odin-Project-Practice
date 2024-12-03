@@ -1,0 +1,1 @@
+Hello World! This is just a test for me to learn about various commands in Git per the Odin Project's curriculum. 
